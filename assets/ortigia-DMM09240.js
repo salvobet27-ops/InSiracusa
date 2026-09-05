@@ -1,1 +1,0 @@
-var e=`/InSiracusa/assets/ortigia-BUrWoB-_.jpg`;export{e as t};
