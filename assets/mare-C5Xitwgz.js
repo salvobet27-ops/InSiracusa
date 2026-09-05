@@ -1,0 +1,1 @@
+var e=`/InSiracusa/assets/mare-CcN6nq2-.jpg`;export{e as t};
